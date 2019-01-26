@@ -23,4 +23,4 @@ Google App Engine
 
 License
 ----------------
-[Apache License 2.0](LICENSE)
+[Apache License 2.0](LICE
